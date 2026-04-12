@@ -1,49 +1,96 @@
-# Hi 👋, I'm Loïc
+<h1 align="center">Loïc Rouaud</h1>
 
-### Machine Learning Engineer with Research Background | Data Science | ML Ops
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbroma" alt="mrbroma" /></a> </p>
-
-### About Me 🚀
-- 🔭 Currently Data Engineer at **Veolia Benelux**
-- 🎓 Former Biomedical Scientist with 5 years of Cancer Research expertise in Immunology and Data Analysis
-- 🌱 Completed intensive Data Science & ML Engineering training @ **BeCode**
-- 💡 Passionate about transforming complex data into actionable insights
-
-### Featured Projects 💻
-
-### 🏠 [House Price Prediction Engine](https://github.com/MrBroma/Wiwino_project)
-Engineered an end-to-end machine learning solution for real estate price prediction, combining XGBoost modeling with a Streamlit interface. Achieved 92% prediction accuracy and implemented SHAP for model interpretability.
-
-### 📊 Orange Data Quality Initiative
-Engineered and deployed a large-scale data quality detection system using PySpark, analyzing millions of records to identify anomalies and errors. Implemented automated validation processes to ensure data integrity across the telecommunications database.
-
-### 📰 [RTBF Article Analyzer](https://github.com/MrBroma/becode-capstone-challenge)
-Built an advanced NLP system analyzing media articles using BERT models for topic modeling and sentiment analysis. Features include named entity recognition, temporal trend analysis, and interactive visualizations for content insights.
-
-### 🍷 [Wine Market Intelligence Platform](https://github.com/MrBroma/Wiwino_project)
-Developed a comprehensive market analysis system using SQL and Tableau, delivering actionable insights for sales optimization and market opportunity identification.
-
-### Technical Skills 🛠️
-- **Languages & Frameworks:** Python, SQL, PySpark
-- **ML & Data Science:** scikit-learn, XGBoost, BERT, Pandas, NumPy
-- **Visualization:** Tableau, Power BI, Plotly, Seaborn
-- **Tools & Platforms:** Git, FastAPI, Streamlit, Docker
-- **Cloud & Big Data:** AWS, Hadoop Ecosystem
-
-🛠️ [Python](https://www.python.org/) | 📊 [Numpy](https://numpy.org/) | 📈 [Pandas](https://pandas.pydata.org/) | 📉 [Matplotlib](https://matplotlib.org/) | 🎨 [Seaborn](https://seaborn.pydata.org/) | 📊 [Plotly](https://plotly.com/) | 🗂️ [Git](https://git-scm.com/) | 🗄️ [SQL](https://www.mysql.com/) | 📊 [Tableau](https://www.tableau.com/) | 📊 [Power BI](https://powerbi.microsoft.com/) | 🕷️ [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) | 🧠 [scikit-learn](https://scikit-learn.org/stable/) | 🚀 [FastAPI](https://fastapi.tiangolo.com/) | 🌐 [Streamlit](https://streamlit.io/)
-
-### Connect with me 🤝
-<p align="left">
-<a href="https://linkedin.com/in/loic-rouaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loic-rouaud" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@loic_rouaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@loic_rouaud" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mrbroma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrbroma" height="30" width="40" /></a>
+<p align="center">
+  <b>ML Engineer · Computational Oncology · Data Science</b><br/>
+  <sub>PhD Biomedical Sciences · FNRS Télévie Fellow · Liège, Belgium</sub>
 </p>
 
-📫 Contact: **loic.rouaud@gmail.com**
+<p align="center">
+  <a href="https://mrbroma.github.io/loic.rouaud.datascience.portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/loic-rouaud/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Open_to-Research_Scientist_roles-2ea44f?style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbroma&show_icons=true&locale=en&layout=compact" alt="mrbroma" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbroma&show_icons=true&locale=en" alt="mrbroma" /></p>
+## About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbroma&" alt="mrbroma" /></p>
+I'm an ML Engineer with a research background in cancer immunology (Tregs, GARP, tumor microenvironment), transitioning into **computational pathology and AI for oncology**. I combine 5 years of wet-lab and bioinformatics research with production ML engineering skills — building systems that go from raw data to interpretable, deployable models.
+
+Currently working at **Comunicare** (Liège) in computational oncology, and actively deepening my ML research skills toward computational pathology and multimodal AI for cancer diagnostics.
+
+- 🔬 Peer-reviewed publications on GARP / Tregs / TME
+- 🏆 FNRS Télévie Fellowship
+- 🌱 Self-directed ML curriculum toward research-level deep learning
+- 🐧 Linux · Python · PyTorch · Docker · GCP
+
+---
+
+## Featured projects
+
+### 🧬 Drug Sensitivity Pipeline
+> Predictive pipeline linking genomic features to compound responses in cancer cell lines, using CrownBio and TCGA data.
+
+`PyTorch` `TCGA` `GCP` `Pandas` `scikit-learn`
+
+---
+
+### 🏠 [House Price Prediction Engine](https://github.com/MrBroma/ImmoEliza_ML_app)
+> End-to-end ML system for Belgian real estate pricing — XGBoost model with SHAP explainability and Streamlit deployment.
+
+`XGBoost` `SHAP` `Streamlit` `Python`
+
+---
+
+### 📊 Orange Data Quality Initiative
+> Large-scale anomaly detection across millions of records with automated PySpark validation pipelines.
+
+`PySpark` `Airflow` `Docker` `AWS`
+
+---
+
+### 📰 [RTBF Article Analyzer](https://github.com/MrBroma/Becode-capstone-challenge)
+> NLP system using BERT for topic classification, sentiment analysis, and named entity recognition on French-language media content.
+
+`BERT` `NLP` `FastAPI` `Plotly`
+
+---
+
+### 🍷 [Wine Market Intelligence Platform](https://github.com/MrBroma/Wiwino_project)
+> Market analysis system leveraging SQL and Tableau for business insights and sales optimization across wine portfolios.
+
+`SQL` `Tableau` `Analytics`
+
+---
+
+## Technical skills
+
+| Domain | Tools |
+|---|---|
+| **ML / Deep Learning** | PyTorch · TensorFlow · scikit-learn · XGBoost · BERT |
+| **Data & Infrastructure** | PySpark · Airflow · Docker · GCP · AWS |
+| **Bioinformatics** | TCGA · DESeq2 · pydeseq2 · R · Bioconductor |
+| **Languages** | Python · SQL · R · Bash |
+| **Visualization & APIs** | Plotly · Tableau · Power BI · FastAPI · Streamlit |
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrBroma&theme=default" width="70%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrBroma&theme=default" height="130"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrBroma&theme=default" height="130"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>Bridging cancer research and machine learning · computational oncology</sub>
+</p>
