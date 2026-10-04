@@ -35,6 +35,7 @@ Currently working at **Comunicare** (Liège) in computational oncology, and acti
 ### 🍇 [Domaine Lesgamaylinand – Wine Estate Website](https://lesgamaylinand.fr)
 Designed, built and deployed the **trilingual (FR/EN/NL) website** of a Beaujolais wine estate with **SvelteKit, TypeScript and Docker**: interactive event map (Leaflet), secure contact form (Resend + reCAPTCHA v3 + nginx rate limiting) and self-hosted production on **Hetzner** behind nginx/HTTPS. Performance and accessibility raised the Lighthouse accessibility score to **100**.
 
+---
 
 ### 🧬 Drug Sensitivity Pipeline
 > Predictive pipeline linking genomic features to compound responses in cancer cell lines, using CrownBio and TCGA data.
